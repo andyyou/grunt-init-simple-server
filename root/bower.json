@@ -1,0 +1,19 @@
+{
+  "name": "{%= name %}",
+  "description": "{%= description %}",
+  "version": "{%= version %}",
+  "authors": [
+    "{%= author_name %}"
+  ],
+  "license": "{%= licenses %}",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
